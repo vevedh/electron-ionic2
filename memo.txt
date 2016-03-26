@@ -1,0 +1,2 @@
+npm install typescript live-server gulp del run-sequence typings --D --no-progress
+npm install
