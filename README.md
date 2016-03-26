@@ -1,7 +1,7 @@
 # electron-ionic2
 Electron starter app with ionic 2
 
-I have create a base to run ionic 2 application with electron it's a idea  from original repo : https://github.com/bsanth/electron-ionic2.git
+I have create a base to run ionic 2 application with electron it's a idea  from original repo : https://github.com/bsanth/electron-angular2.git
 
 * Git clone the repo to your root ionic 2 starter application.
 
